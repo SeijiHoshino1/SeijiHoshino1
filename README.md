@@ -41,15 +41,12 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
 **Data & BI**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="45" height="45" alt="Apache Airflow" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/looker.svg" width="45" height="45" alt="Looker Studio" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="45" height="45" alt="Power BI" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Apache Airflow" />
 <br><br>
 
 **Cloud, DevOps & APIs**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="45" height="45" alt="Insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
