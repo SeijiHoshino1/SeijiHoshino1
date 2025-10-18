@@ -8,9 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=SeijiHoshino1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
  I'm a developer who enjoys building secure, scalable systems... and then figuring out how to break them (ethically, of course). My world revolves around clean <strong>Java Spring Boot</strong> applications (Hexagonal Architecture is my jam) and wrangling massive datasets with <strong>Python</strong> and <strong>Pandas</strong>.
  
@@ -20,9 +18,8 @@ I occasionally dabble in <strong>C</strong> for some "fun" with dynamic memory a
 
 I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-planning, and explaining why those story points were completely wrong.
 
----
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -67,9 +64,8 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
 
 </div>
 
----
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -91,9 +87,8 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
   />
 </p>
 
----
 
-### ⚡ GitHub Activity Graph
+## ⚡ GitHub Activity Graph
 
 <p align="center">
   <img 
@@ -102,9 +97,7 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
   />
 </p>
 
----
-
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seiji-andre-h-150b172a2/" target="_blank">
@@ -115,7 +108,6 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
   </a>
 </p>
 
----
 
 <p align="center">
   <em>"If it’s not secure, it’s just a fancy vulnerability."</em>
