@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1563089145-599997674d42?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000](https://images.unsplash.com/photo-1563089145-599997674d42?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000)" alt="Seiji Hoshino - Software Developer" width="100%">
+  <img src="https://images.unsplash.com/photo-1563089145-599997674d42?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000" alt="Seiji Hoshino - Software Developer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seiji+%F0%9F%91%8B;Building+secure+systems...;...and+figuring+out+how+to+break+them." alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seiji+%F0%9F%91%8B;Building+secure+systems...;...and+then+figuring+out+how+to+break+them." alt="Typing SVG"></a>
 </p>
 
 <p align="center">
