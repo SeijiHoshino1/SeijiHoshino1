@@ -104,7 +104,7 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn">
   </a>
   <a href="mailto:seijihoshino@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg" alt="Outlook">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Microsoft_Outlook_logo_%282024%E2%80%932025%29.svg" alt="Outlook">
   </a>
 </p>
 
