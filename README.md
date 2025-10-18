@@ -44,9 +44,8 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Apache Airflow" />
 <br><br>
 
-**Cloud, DevOps & APIs**
+**DevOps & APIs**
 <p align="center">
-  <img src="https://aws-icons.com/images/svg/Arch-Networking-ContentDelivery-CloudFront-32.svg" width="45" height="45" alt="AWS CloudFront" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="45" height="45" alt="Insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
@@ -59,7 +58,7 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" />
+  <img src="https://dashicons.com/images/icons/kali-linux/kali-linux-original.svg" width="45" height="45" alt="Kali Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx" />
