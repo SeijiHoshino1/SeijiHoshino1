@@ -97,18 +97,16 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
   />
 </p>
 
-## 🤝 Connect With Me
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/seiji-andre-h-150b172a2/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn">
   </a>
   <a href="mailto:seijihoshino@outlook.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Microsoft_Outlook_logo_%282024%E2%80%932025%29.svg" alt="Outlook">
   </a>
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <em>"If it’s not secure, it’s just a fancy vulnerability."</em>
-</p>
+</p> -->
