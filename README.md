@@ -46,7 +46,7 @@ I practice <strong>SCRUM</strong>, which means I'm excellent at planning, re-pla
 
 **Cloud, DevOps & APIs**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  <img src="https://aws-icons.com/images/svg/Arch-Networking-ContentDelivery-CloudFront-32.svg" width="45" height="45" alt="AWS CloudFront" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="45" height="45" alt="Insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
